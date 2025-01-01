@@ -37,7 +37,7 @@ body {
 }
 
 .section-three {
-  background-color:  #F4F4FD ;
+  background-color: #f4f4fd;
 }
 .our-team {
   color: #2e2f42;
@@ -47,14 +47,17 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
+.section-three-ul {
+  background-color: #ffffff;
+}
 
 .name-team {
   color: #2e2f42;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  line-height: 1.5
-  letter-spacing: 0.02em;
+  line-height: 1.5;
+  letter-spasing: 0.02em;
 }
 
 .position-team {
