@@ -13,6 +13,10 @@ body {
   text-align: center;
 }
 
+.section-one {
+  color: #2e2f42;
+}
+
 .list-name {
   color: #2e2f42;
   font-weight: 500;
@@ -52,13 +56,14 @@ body {
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02eml;
+  letter-spacing: 0.02em;
   line-height: 1.11;
 }
 
 .our-portfolio {
   color: #2e2f42;
   font-size: 36px;
+  line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -77,6 +82,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  font-weight: 500;
 }
 .button {
   color: #ffffff;
